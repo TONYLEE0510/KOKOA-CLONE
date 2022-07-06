@@ -1,15 +1,15 @@
-.icon-raw {
+.find-icons {
   display: flex;
   justify-content: space-between;
 }
 
-.icon-raw__icon {
+.find-icons__icon {
   display: flex;
   flex-direction: column;
   align-items: center;
 }
 
-.icon-raw__icon i {
+.find-icons__icon i {
   font-size: 35px;
 }
 

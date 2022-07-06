@@ -200,8 +200,8 @@
   opacity: 0;
 }
 .reply:focus-within input {
-  width: 98vw;
-  transform: translateX(-11%) translateY(-80px);
+  width: 97vw;
+  transform: translateX(-13%) translateY(-80px);
 }
 
 .reply:focus-within {
