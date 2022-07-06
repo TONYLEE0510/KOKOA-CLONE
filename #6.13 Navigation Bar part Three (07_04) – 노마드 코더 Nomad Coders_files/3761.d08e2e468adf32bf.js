@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[3761],{3761:function(e,n,s){s.r(n);var a=s(85893);n.default=function(e){var n=e.children;return(0,a.jsx)("div",{className:"mx-auto max-w-screen-xl px-4 sm:px-6 lg:px-8",children:n})}}}]);
