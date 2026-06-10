@@ -1,0 +1,116 @@
+{
+  "cities": [
+    {
+      "id": "guadalajara",
+      "name": "Guadalajara",
+      "stadium": "Estadio Akron",
+      "country": "Mexico",
+      "countryCode": "MX"
+    },
+    {
+      "id": "mexico-city",
+      "name": "Mexico City",
+      "stadium": "Estadio Azteca",
+      "country": "Mexico",
+      "countryCode": "MX"
+    },
+    {
+      "id": "monterrey",
+      "name": "Monterrey",
+      "stadium": "Estadio BBVA",
+      "country": "Mexico",
+      "countryCode": "MX"
+    },
+    {
+      "id": "atlanta",
+      "name": "Atlanta",
+      "stadium": "Mercedes-Benz Stadium",
+      "country": "USA",
+      "countryCode": "US"
+    },
+    {
+      "id": "boston",
+      "name": "Boston",
+      "stadium": "Gillette Stadium",
+      "country": "USA",
+      "countryCode": "US"
+    },
+    {
+      "id": "dallas",
+      "name": "Dallas",
+      "stadium": "AT&T Stadium",
+      "country": "USA",
+      "countryCode": "US"
+    },
+    {
+      "id": "houston",
+      "name": "Houston",
+      "stadium": "NRG Stadium",
+      "country": "USA",
+      "countryCode": "US"
+    },
+    {
+      "id": "kansas-city",
+      "name": "Kansas City",
+      "stadium": "Arrowhead Stadium",
+      "country": "USA",
+      "countryCode": "US"
+    },
+    {
+      "id": "los-angeles",
+      "name": "Los Angeles",
+      "stadium": "SoFi Stadium",
+      "country": "USA",
+      "countryCode": "US"
+    },
+    {
+      "id": "miami",
+      "name": "Miami",
+      "stadium": "Hard Rock Stadium",
+      "country": "USA",
+      "countryCode": "US"
+    },
+    {
+      "id": "new-york",
+      "name": "New York/New Jersey",
+      "stadium": "MetLife Stadium",
+      "country": "USA",
+      "countryCode": "US"
+    },
+    {
+      "id": "philadelphia",
+      "name": "Philadelphia",
+      "stadium": "Lincoln Financial Field",
+      "country": "USA",
+      "countryCode": "US"
+    },
+    {
+      "id": "san-francisco",
+      "name": "San Francisco Bay Area",
+      "stadium": "Levi's Stadium",
+      "country": "USA",
+      "countryCode": "US"
+    },
+    {
+      "id": "seattle",
+      "name": "Seattle",
+      "stadium": "Lumen Field",
+      "country": "USA",
+      "countryCode": "US"
+    },
+    {
+      "id": "toronto",
+      "name": "Toronto",
+      "stadium": "BMO Field",
+      "country": "Canada",
+      "countryCode": "CA"
+    },
+    {
+      "id": "vancouver",
+      "name": "Vancouver",
+      "stadium": "BC Place",
+      "country": "Canada",
+      "countryCode": "CA"
+    }
+  ]
+}
