@@ -1,7 +1,7 @@
 {
   "matches": [
-    { "id": "M001", "group": "A", "matchday": 1, "date": "2026-06-11", "time": "16:00", "cityId": "guadalajara", "home": "A1", "away": "A2", "homeScore": null, "awayScore": null },
-    { "id": "M002", "group": "A", "matchday": 1, "date": "2026-06-11", "time": "19:00", "cityId": "mexico-city", "home": "A3", "away": "A4", "homeScore": null, "awayScore": null },
+    { "id": "M001", "group": "A", "matchday": 1, "date": "2026-06-11", "time": "16:00", "cityId": "mexico-city", "home": "A1", "away": "A2", "homeScore": null, "awayScore": null },
+    { "id": "M002", "group": "A", "matchday": 1, "date": "2026-06-11", "time": "19:00", "cityId": "guadalajara", "home": "A3", "away": "A4", "homeScore": null, "awayScore": null },
     { "id": "M003", "group": "A", "matchday": 2, "date": "2026-06-16", "time": "15:00", "cityId": "atlanta", "home": "A1", "away": "A3", "homeScore": null, "awayScore": null },
     { "id": "M004", "group": "A", "matchday": 2, "date": "2026-06-16", "time": "18:00", "cityId": "new-york", "home": "A2", "away": "A4", "homeScore": null, "awayScore": null },
     { "id": "M005", "group": "A", "matchday": 3, "date": "2026-06-21", "time": "17:00", "cityId": "dallas", "home": "A1", "away": "A4", "homeScore": null, "awayScore": null },
